@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="docum.svg">
+  <svg:metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="19.607748"
+     inkscape:cy="25.148243"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g />
+  <svg:path
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     d="M55.46,55.966c0,1.675-1.357,3.034-3.033,3.034H7.572c-1.676,0-3.033-1.358-3.033-3.034V4.033 C4.54,2.357,5.896,1,7.572,1h44.855c1.675,0,3.033,1.357,3.033,3.033V55.966z"
+     id="path3731"
+     inkscape:connector-curvature="0" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     id="line3725"
+     x1="36.625"
+     y1="51.688"
+     x2="49.835"
+     y2="51.688" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     x1="10.091"
+     y1="51.688"
+     x2="23.302"
+     y2="51.688"
+     id="line6" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     x1="17.352"
+     y1="23.906"
+     x2="42.575"
+     y2="23.906"
+     id="line8" />
+  <svg:line
+     id="line27"
+     y2="28.774"
+     x2="49.834999"
+     y1="28.774"
+     x1="10.091"
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     x1="10.091"
+     y1="33.899"
+     x2="49.835"
+     y2="33.899"
+     id="line10" />
+  <svg:path
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     d="M41.183,12.364v1.676c5.076,1.484,9.509,3.184,9.509,3.184l-2.187-2.966l2.187-1.325 c0,0-2.34-0.903-5.57-1.966"
+     id="path12" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     x1="41.183"
+     y1="14.04"
+     x2="45.117"
+     y2="13.227"
+     id="line14" />
+  <svg:path
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     d="M18.796,12.342v1.698c-5.077,1.484-9.509,3.184-9.509,3.184l2.187-2.966l-2.187-1.325 c0,0,2.323-0.895,5.532-1.953"
+     id="path16" />
+  <svg:line
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     x1="18.796"
+     y1="14.04"
+     x2="14.862"
+     y2="13.227"
+     id="line18" />
+  <svg:path
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     d="M14.821,8.919c0,0,8.372-2.146,15.189-2.146c6.817,0,15.106,2.146,15.106,2.146v4.292 c0,0-8.354-2.146-15.106-2.146c-6.754,0-15.189,2.146-15.189,2.146V8.919z"
+     id="path20" />
+  <svg:polygon
+     style="fill:none;stroke:#6e4b93;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     points="34.563,47.657 35.301,46.379 34.596,45.159 34.616,43.75 33.347,42.994 32.608,41.713 31.199,41.713 29.989,40.992 28.699,41.713 27.22,41.713 26.518,42.933 25.289,43.621 25.267,45.099 24.526,46.379 25.232,47.598 25.214,49.007 26.482,49.763 27.22,51.043 28.629,51.043 29.84,51.764 31.131,51.043 32.608,51.043 33.313,49.824 34.542,49.136 "
+     id="polygon22" />
+</svg:svg>
