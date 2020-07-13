@@ -148,8 +148,283 @@
 </header>
 <hr class="style13" style="margin-top: 20px">
 
-
 <!-- Блок 2 -->
+<!-- Конец Блок 2 -->
 
+<!-- Меню -->
+<div class="header-menu">
+    <div class="topMenu">
+        <ul id="menu">
+            <div class="iconMenu"><img src="assets/img/menu-closed-icon.png" alt="Иконка меню"/></div>
+            <div class="logoMenu"><img src="assets/img/logo-border.png"></div>
+            <div class="iconTel"><a href="tel:+73845140909" class="phone"></a></div>
+            <div class="itemsMenu">
+                <li><a href="/#block7" class="menu__link">Выбрать квартиру</a></li>
+                <li><a href="/#block5" class="menu__link">Район</a></li>
+                <li><a href="/" class="img__link"><img src="assets/img/logo-border.png"></a></li>
+                <li><a href="/#block10" class="menu__link">Ипотека</a></li>
+                <li><a href="/#block11" class="menu__link">Ход строительства</a></li>
+            </div>
+        </ul>
+        <div class="telMenu">
+            <a href="tel:+73845140909" class="callback__phone">+7 (384) 514-09-09</a>
+            <span><i class="fas fa-phone"></i> позвонить</span>
+        </div>
+    </div>
+</div>
+<!-- Конец Меню -->
+
+<!-- Блок 3 -->
+<div class="l-wrap" id="Block3">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-5">
+                <div class="item-center">
+                    <div class="video-responsive">
+                        <!-- <iframe width="auto" height="auto" src="https://www.youtube.com/embed/NNFKvqiTmSk?showinfo=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                        <iframe width="auto" height="auto" src="https://www.youtube.com/embed/gr08fcew1yE?showinfo=0&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <span style="font-size: 64px;"><strong>8 причин</strong></span>
+                    <span style="font-size: 34px;">переехать</span>
+                    <span style="font-size: 34px;">в ЖК "Альпийский парк"</span>
+                    <div class="line" style="width: 25%; height: 4px; background-color: #e02b20; border-radius: 0px;margin: 10px auto"></div>
+                    <div class="line" style="width: 17%; height: 4px; background-color: #db4a1e; border-radius: 0px;margin: 10px auto"></div>
+
+                </div>
+            </div>
+            <div class="col-12 col-lg-7">
+                <a class="bgimage" href="assets/img/block-3/picbig-1.jpg"></a>
+            </div>
+        </div>
+        <div class="padding"></div>
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-1.svg" style="width: 40px;">
+                    <span class="spCentr">СЕМЕЙНЫЕ<br>ПЛАНИРОВКИ</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-2.svg" style="width: 40px;">
+                    <span class="spCentr">ТЁПЛЫЕ<br>КИРПИЧНЫЕ СТЕНЫ</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-3.svg" style="width: 40px;">
+                    <span class="spCentr">СОВРЕМЕННЫЙ<br>ДВОР</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-4.svg" style="width: 40px;">
+                    <span class="spCentr">ОБОСОБЛЕННАЯ<br>ТЕРРИТОРИЯ</span>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-5.svg" style="width: 40px;">
+                    <span class="spCentr">ИНДИВИДУАЛЬНЫЕ<br>ПАРКОВКИ</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-6.svg" style="width: 40px;">
+                    <span class="spCentr">ВЫСОКИЙ УРОВЕНЬ<br>БЕЗОПАСНОСТИ</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-7.svg" style="width: 40px;">
+                    <span class="spCentr">ВСЯ ВАЖНАЯ<br>ИНФРАСТРУКТУРА<br>РЯДОМ</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="item-center">
+                    <img src="assets/img/block-3/icon-8.svg" style="width: 40px;">
+                    <span class="spCentr">КОМФОРТНЫЕ<br>УСЛОВИЯ ПОКУПКИ</span>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-lg-9">
+                <div class="contact-form" style="margin: 25px;">
+                    <p style="text-align: center; font-size: 18px;">Оставьте заявку прямо сейчас и получите бесплатную консультацию</p>
+                    <form id="cForm">
+                        <div class="formContent">
+                            <!--<input id="name" type="text" class="field" name="name" placeholder="Имя">
+                            <input id="phone" type="text" class="field" name="phone" required placeholder="Телефон*">-->
+                            <button id="button" class="button" data-fancybox data-src="#callback" type="submit">Получить консультацию <i class="fas fa-phone" style="margin-left: 10px"></i></button>
+                            <div class="result">
+                                <span id="answer"></span>
+                                <span id="loader"><img src="assets/img/loader.gif" alt=""></span>
+                            </div>
+                        </div>
+                    </form>
+                    <p style="text-align: center; font-size: 12px;">Или позвоните по номеру 8(38451) 4-09-09</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr class="style13">
+<!-- Конец Блок 3 -->
+<!-- Блок 4 -->
+<!--<div class="l-wrap" id="block4">-->
+<!--  <div class="container-fluid">-->
+<!--    <div class="row align-items-center">-->
+<!--      <div class="col-12">-->
+<!--        <div class="item-center">-->
+<!--          <span style="font-size: 34px;">Акции и спецпредложения</span>-->
+<!--          <div class="line" style="width: 25%; height: 4px; background-color: #e02b20; border-radius: 0px;margin: 10px auto"></div>-->
+<!--          <div class="line" style="width: 17%; height: 4px; background-color: #db4a1e; border-radius: 0px;margin: 10px auto"></div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--    <div class="row align-items-center">-->
+<!--      <div class="col-12" style="padding-left: 0;">-->
+<!--        <div class="ctr-center" style="margin: 20px 0 20px 0; text-align: center;">-->
+<!--          <a class="sl&#45;&#45;control-prev" href="#slider-one" role="button" data-slide="prev">-->
+<!--            <span><i class="fas fa-angle-left"></i></span>-->
+<!--            <span class="sr-only">Previous</span>-->
+<!--         </a>-->
+<!--         <a class="sl&#45;&#45;control-next" href="#slider-one" role="button" data-slide="next">-->
+<!--            <span><i class="fas fa-angle-right"></i></span>-->
+<!--            <span class="sr-only">Next</span>-->
+<!--          </a>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--        <div id="slider-one" class="carousel slide" data-ride="carusel">-->
+<!--          <div class="carousel-inner w-100" style="height: 540px">-->
+<!--            <div class="carousel-item active" data-interval="3000">-->
+<!--              <div class="container-fluid" style="background-color: #f3f3f6">-->
+<!--                <div class="row align-items-center">-->
+<!--                  <div class="col-12 col-lg-7">-->
+<!--                    <div class="bg-sl" style="background-image: url('img/block-4/slide-1.jpg');"></div>-->
+<!--                  </div>-->
+<!--                  <div class="col-12 col-lg-5">-->
+<!--                    <p style="text-align: center;"><span style="font-size: 30px;">Мы добавляем </span><span style="font-size: 70px; color: #e02b20">50</span><span style="font-size: 38px; color: #e02b20">тыс. руб.</span></p>-->
+<!--                    <p style="text-align: center;"><span style="font-size: 22px;">к материнскому<br>капиталу!</span></p>-->
+<!--                      <div class="btn-sl">-->
+<!--                        <button id="button" class="button" data-fancybox data-src="#callback" type="submit">Подробнее <i class="fas fa-phone" style="margin-left: 10px"></i></button>-->
+<!--                      </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="carousel-item" data-interval="3000">-->
+<!--              <div class="container-fluid" style="background-color: #f3f3f6">-->
+<!--                <div class="row align-items-center">-->
+<!--                  <div class="col-12 col-lg-7">-->
+<!--                    <div class="bg-sl" style="background-image: url('img/block-4/slide-2.jpg'); background-position: right center;"></div>-->
+<!--                  </div>-->
+<!--                  <div class="col-12 col-lg-5">-->
+<!--                    <p style="text-align: center;"><span style="font-size: 30px;">ИПОТЕКА</span></p>-->
+<!--                    <p style="text-align: center;"><span style="font-size: 22px;">от</span><span style="font-size: 70px; color: #e02b20">7,6</span><span style="font-size: 38px; color: #e02b20">%</span></p>-->
+<!--                      <div class="btn-sl">-->
+<!--                        <button id="button" class="button" data-fancybox data-src="#callback" type="submit">Подробнее <i class="fas fa-phone" style="margin-left: 10px"></i></button>-->
+<!--                      </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="carousel-item" data-interval="3000">-->
+<!--              <div class="container-fluid" style="background-color: #f3f3f6">-->
+<!--                <div class="row align-items-center">-->
+<!--                  <div class="col-12 col-lg-7">-->
+<!--                    <div class="bg-sl" style="background-image: url('img/block-4/slide-3.jpg'); background-position: right center;"></div>-->
+<!--                  </div>-->
+<!--                  <div class="col-12 col-lg-5">-->
+<!--                    <p style="text-align: center;"><span style="font-size: 30px;">Семейная ипотека<br>с господдержкой</span></p>-->
+<!--                    &lt;!&ndash;<p style="text-align: center;"><span style="font-size: 22px;">от</span><span style="font-size: 70px; color: #e02b20">9,5</span><span style="font-size: 38px; color: #e02b20">%</span></p>&ndash;&gt;-->
+<!--                      <div class="btn-sl">-->
+<!--                        <button id="button" class="button" data-fancybox data-src="#callback" type="submit">Подробнее <i class="fas fa-phone" style="margin-left: 10px"></i></button>-->
+<!--                      </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>      -->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <hr class="style13" style="margin-top: 10px">-->
+<!--</div>-->
+<div class="l-wrap" id="block10">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-12">
+                <div class="komf-center">
+                    <span>Легкая ипотека!</span>
+                    <div class="line" style="width: 25%; height: 4px; background-color: #e02b20; border-radius: 0px;margin: 10px auto"></div>
+                    <div class="line" style="width: 17%; height: 4px; background-color: #db4a1e; border-radius: 0px;margin: 10px auto"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="ip-img">
+                    <img src="assets/img/block-10/pic-ipoteka.png">
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-lg-3">
+                <div class="ip-center">
+                    <img src="assets/img/block-10/rubl-icon.svg" style="width: 40px;">
+                    <span style="display: inline-block;">от </span>
+                    <span style="display: inline-block; font-size: 26px;color: #e02b20"><strong>200 000</strong></span>
+                    <span style="display: inline-block;">рублей</span>
+                    <span style="margin-top: 5px; opacity: 0.5">первый взнос</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="ip-center">
+                    <img src="assets/img/block-10/calc-icon.svg" style="width: 40px;">
+                    <span style="display: inline-block;">от </span>
+                    <span style="display: inline-block; font-size: 26px;color: #e02b20"><strong>7,6</strong></span>
+                    <span style="display: inline-block;">%</span>
+                    <span style="margin-top: 5px; opacity: 0.5">ставка по ипотеке</span>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="ip-center">
+                    <img src="assets/img/block-10/matcap-icon.svg" style="width: 40px;">
+                    <span style="display: inline-block;color: #e02b20;"><strong>Материнский капитал</strong></span>
+                    <span style="margin-top: 5px; opacity: 0.5">в счет первого взноса</span>
+                </div>
+            </div>
+        </div>
+        <div class="padding" style="height: 35px"></div>
+        <div class="row">
+            <div class="col-12">
+                <div class="btn-sl">
+                    <button id="button" class="button" data-fancybox data-src="#callback" type="submit">Получить консультацию <i class="fas fa-phone" style="margin-left: 10px"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="padding" style="height: 35px"></div>
+    </div>
+</div>
+<div class="l-wrap" style="background-color: rgb(41, 44, 54)">
+    <div class="container-fluid">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-lg-3">
+                <div class="bank-box">
+                    <img src="img/block-10/Sberbank.png">
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+                <div class="bank-box">
+                    <img src="img/block-10/VTB.png">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Конец Блок 4 -->
 </body>
 </html>
