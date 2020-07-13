@@ -414,17 +414,103 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-12 col-lg-3">
                 <div class="bank-box">
-                    <img src="img/block-10/Sberbank.png">
+                    <img src="assets/img/block-10/Sberbank.png">
                 </div>
             </div>
             <div class="col-12 col-lg-3">
                 <div class="bank-box">
-                    <img src="img/block-10/VTB.png">
+                    <img src="assets/img/block-10/VTB.png">
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- Конец Блок 4 -->
+<!-- Блок 5 -->
+
+<!-- Конец Блок 5 -->
+
+<!-- Блок 6 -->
+<div class="l-wrap" id="block6">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-12">
+                <div class="item-center">
+                    <span style="font-size: 54px;">Семейные планировки</span>
+                    <div class="line" style="width: 25%; height: 4px; background-color: #e02b20; border-radius: 0px;margin: 10px auto"></div>
+                    <div class="line" style="width: 17%; height: 4px; background-color: #db4a1e; border-radius: 0px;margin: 10px auto"></div>
+                </div>
+            </div>
+        </div>
+        <div class="padding"></div>
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #03ad9f">
+                        <img src="assets/img/block-6/pl-1.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Кладовые и гардеробные</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #6e4b93">
+                        <img src="assets/img/block-6/pl-2.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Все квадратные метры полезны</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #e73272">
+                        <img src="assets/img/block-6/pl-3.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Светлые детские комнаты</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #03ad9f">
+                        <img src="assets/img/block-6/pl-4.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Большие кухни</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #6e4b93">
+                        <img src="assets/img/block-6/pl-5.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Детская и родительская спальни разнесены</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="box">
+                    <figure class="effect-apollo" style="background: #e73272">
+                        <img src="assets/img/block-6/pl-6.jpg" alt="img18"/>
+                        <figcaption>
+                            <p>Большие балконы широкие окна</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="padding"></div>
+    <hr class="style13" style="margin-top: 10px">
+</div>
+<!-- Конец Блок 6 -->
 </body>
 </html>
